@@ -1,0 +1,13 @@
+#
+# ~/.bash_profile
+#
+
+[[ -f ~/.bashrc ]] && . ~/.bashrc
+
+
+# Added by Toolbox App
+export PATH="$PATH:/home/abhishek/.local/share/JetBrains/Toolbox/scripts"
+
+
+# Created by `pipx` on 2023-07-09 19:21:15
+export PATH="$PATH:/home/abhishek/.local/bin"

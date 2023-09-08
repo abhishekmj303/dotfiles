@@ -1,0 +1,16 @@
+export BROWSER=brave
+export TERM=kitty
+export TERM_RUN="kitty sh -c"
+export MAIL=thunderbird
+export QT_QPA_PLATFORMTHEME="qt5ct"
+export GTK2_RC_FILES="$HOME/.gtkrc-2.0"
+export XDG_CURRENT_DESKTOP=qtile
+
+export ALTERNATE_EDITOR="nvim"                      
+export EDITOR="helix"              
+export VISUAL="helix"           
+
+
+# Added by Toolbox App
+export PATH="$PATH:/home/abhishek/.local/share/JetBrains/Toolbox/scripts"
+
